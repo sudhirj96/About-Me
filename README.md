@@ -57,7 +57,7 @@ Monitoring
  ETABS & STAAD PRO– Structural Modelling and Analysis with RCDC software for R.C.C 
 Building Structures.
 
-<img align="right" alt="GIF" src="https://github.com/SatishDhawale/SatishDhawale/blob/1ca00b90990f3b0d667c34332da2d660d636d4fa/Satish%20Dhawale.jpg" width="400" height="225" />
+<img align="right" alt="GIF" src="https://github.com/sudhirj96/About-Me/blob/5839cb71c79b316da91f4eee26ef63e64a1bbf27/Satish%20Dhawale.jpg" width="400" height="225" />
   
 
 **Talking about Personal Stuffs:**
